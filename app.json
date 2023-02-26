@@ -1,8 +1,8 @@
 {
     "name": "Telegram multi bot",
     "description": "An Advanced Multi Featured Bot Written In Python-Pyrogram",
-    "repository": "https://github.com/itz-jeol/TG-MULTI-BOT",
-    "logo": "https://graph.org/file/f30ecbc3096c55380520c.jpg",
+    "repository": "https://github.com/athulx80/TG-MULTI-BOT-1",
+    "logo": "https://telegra.ph/file/97b6c9ce77dd143d00b24.jpg",
     "stack": "container",
     "keywords": ["tgbot", "multibot", "telegram bot"],
     "env": {        
