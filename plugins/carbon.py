@@ -19,8 +19,8 @@ async def carbon_func(_, message):
         image = BytesIO(await resp.read())
     image.name = "carbon.png"   
     await m.edit("ᴜᴘʟᴏᴀᴅɪɴɢ..")
-    await message.reply_photo(photo=image, caption="**MADE WITH ❤️ BY >JEOL & MKN**",
-        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("JOIN CHANNEL", url="https://t.me/beta_boTZ")]])                 
+    await message.reply_photo(photo=image, caption="**MADE BY @MEmpire_official 🗿**",
+        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("JOIN CHANNEL", url="https://t.me/+L8SWfrF_7m04ODZl")]])                 
     )
     await m.delete()
     carbon.close()
