@@ -7,13 +7,13 @@ Eg:- Telegarph, Channel ID, Image editor etc... """
     ABT = """ 
 ╔════❰ 𝙼𝚄𝙻𝚃𝙸 𝙱𝙾𝚃 ❱═❍
 ║╭━━━━━━━━━━━━━━━➣
-║┣⪼🤖ᴍʏ ɴᴀᴍᴇ : {bot}
-║┣⪼👦ᴅᴇᴠ 1 : <a href=https://t.me/about_jeol>ᴊᴇᴏʟ</a>
-║┣⪼👨‍💻ᴅᴇᴠ 2 : <a href=https://t.me/mr_MKN>ᴍʀ.ᴍᴋɴ ᴛɢ</a>
-║┣⪼❣️sᴏᴜʀᴄᴇ ᴄᴏᴅ : <a href=https://github.com/Itz-JEOL/TG-MULTI-BOT>ᴛɢ-ᴍᴜʟᴛɪ-ʙᴏᴛ</a>
-║┣⪼🗣️ʟᴀɴɢᴜᴀɢᴇ : <a href=https://www.python.org>ᴘʏᴛʜᴏɴ3</a>
-║┣⪼📚ʟɪʙʀᴀʀʏ : <a href=https://github.com/pyrogram>ᴘʏʀᴏɢʀᴀᴍ</a> 
-║┣⪼🗒️ᴠᴇʀsɪᴏɴ : 𝙼𝚄𝙻𝚃𝙸 𝙱𝙾𝚃 v3.0.1 
+║┣⪼🤖 ᴍʏ ɴᴀᴍᴇ : {bot}
+║┣⪼🗿 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/athulx80>ᴀᴛʜᴜʟ</a>
+║┣⪼📺 ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/mr_MKN>ᴍʀ.ᴍᴋɴ ᴛɢ</a>
+║┣⪼♥️ sᴏᴜʀᴄᴇ ᴄᴏᴅ : <a href=https://github.com/athulx80/TG-MULTI-BOT-1>ᴍᴜʟᴛɪ-ʙᴏᴛ</a>
+║┣⪼⚙️ ʟᴀɴɢᴜᴀɢᴇ : <a href=https://www.python.org>ᴘʏᴛʜᴏɴ3</a>
+║┣⪼📚 ʟɪʙʀᴀʀʏ : <a href=https://github.com/pyrogram>ᴘʏʀᴏɢʀᴀᴍ</a> 
+║┣⪼🗒️ ᴠᴇʀsɪᴏɴ : 𝙼𝚄𝙻𝚃𝙸 𝙱𝙾𝚃 v3.0.1 
 ║╰━━━━━━━━━━━━━━━➣
 ╚══════════════════❍ """
 
@@ -96,7 +96,7 @@ To Make Square Logo -  /logosq Your Name
 • /song 𝚂𝙾𝙽𝙶 𝙽𝙰𝙼𝙴 
 • /video or /mp4 𝘈𝘯𝘥 https://youtu.be/*****
 • 𝘌𝘹𝘢𝘮𝘱𝘭𝘦:
-<code>/song mkn</code>
+<code>/song name</code>
 <code>/mp4 https://youtu.be/*******</code>
 <code>/video https://youtu.be/*****</code>  """
   
@@ -116,7 +116,7 @@ Translate text to speech
 • These commands works on both pm and group.
 • this can translate texts to 200+ languages."""
 
-    SOURCE = """[Github](https://github.com/Itz-JEOL/TG-MULTI-BOT) | [Updates](t.me/beta_botz)
+    SOURCE = """[Github](https://github.com/athulx80/TG-MULTI-BOT-1) | [Updates](https://t.me/+L8SWfrF_7m04ODZl)
 ```----------------
 | Contributors |
 ----------------```
@@ -132,5 +132,5 @@ Translate text to speech
 ○ UserName : @{u}
 ○ link : <code>https://t.me/{u}</code>
 
-Thank You For Using Me❣️</i>"""
+Thank You For Using Me 🤌🏼🗿</i>"""
 
