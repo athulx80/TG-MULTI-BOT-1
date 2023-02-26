@@ -3,7 +3,7 @@ from aiohttp import ClientSession
 
 session = ClientSession()
 
-SOURCE = """[Github](https://github.com/Jeolpaul/TG-MULTI-BOT) | [Updates](t.me/beta_botz)
+SOURCE = """[GITHUB](https://github.com/athulx80) | [UPDATES](https://t.me/+L8SWfrF_7m04ODZl)
 ```----------------
 | Contributors |
 ----------------```
