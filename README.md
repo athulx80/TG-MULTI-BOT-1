@@ -56,7 +56,7 @@ This is a pyrogram based telegram bot. Telagram user id, info, telegraph, sticke
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Itz-JEOL/TG-MULTI-BOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 - <b>  DEPLOY ON RAILWAY </b>
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/RhUzfU?referralCode=athulx)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/X29yTm?referralCode=athulx)
 
 </details>
 
